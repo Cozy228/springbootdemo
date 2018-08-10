@@ -1,0 +1,24 @@
+{
+  "id": "5b43778a7d5858aa0cedbbd0",
+  "name": "Ziyu",
+  "eid": 631495,
+  "department": "ADM",
+  "manager": "Shen,Bin",
+  "title": "SRA"
+}
+{
+  "id": "5b4377a97d5858aa0cedbbd1",
+  "name": "Lifeng",
+  "eid": 504166,
+  "department": "ADM",
+  "manager": "Shen,Bin",
+  "title": "AVP"
+}
+{
+  "id": "5b4379447d5858aa0cedbbd9",
+  "name": "Wangwei",
+  "eid": 601180,
+  "department": "CRF",
+  "manager": "Shen,Bin",
+  "title": "Officer"
+}

@@ -1,4 +1,4 @@
 # springbootdemo
-##Spring Boot
-###ThymeLeaf
-###Spring JPA
+## Spring Boot
+## ThymeLeaf
+## Spring JPA
